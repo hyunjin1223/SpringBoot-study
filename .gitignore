@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Gradle / Maven ###
+.gradle/
+build/
+target/
+
+### Spring Boot ###
+HELP.md
+bin/
